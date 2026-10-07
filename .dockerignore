@@ -1,0 +1,10 @@
+target/
+.git/
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
